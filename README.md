@@ -62,3 +62,116 @@ it is library wich is used to achieve Behaviour deriven testing.
 How do you write an Xpath locator to identify paragraph elements that are the immediate child of a div element,
 
 //div::child[//p]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import java.util.HashMap;
+
+public class prca {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+String Str= "Name=hari|loc=pune|pin=123";
+        
+        HashMap<String,String>  hs = new HashMap<>();
+        
+        
+        String[] strsplt = Str.split("\\|");
+        
+//       System.out.println(strsplt[0]);
+        
+        for(String a1:strsplt){
+        	
+        	
+            
+           String[] inter= a1.split("=");
+//           System.out.println(inter[0]);
+           
+          hs.put(inter[0],inter[1]);
+
+        }
+        
+        System.out.println(hs);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RestAssure.baseURI="";
+
+RequestSpecification http=RestAssured.given();
+
+http.header("content-Type","application/json");
+
+http.aoth.Oath2();
+
+JSONObject json = new JSONObject();
+
+json.put("firname","hari");
+json.put("lname",nomula);
+
+httpr.body(json.toString());
+
+Response reponse=http.post();
+
+-----------------------------------------------------------------------------------------------------------
+
+public class employee{
+
+private String firname;
+
+private String lname;
+
+public String getfirname(){
+return firname;
+
+}
+
+public void set firname(String firname){
+this.firname= firname;
+
+
+}
+
+public String getlname(){
+return lname;
+
+}
+
+public void set firname(String firname){
+this.lname= lname;
+
+
+}
+
+============================================================================
+
