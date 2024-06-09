@@ -1,0 +1,613 @@
+Questions
+
+1)Code for reversing a string
+   Input: Good Morning World 
+   Output: dlroW gninroM dooG
+ 
+2)How to sort a list of objects<Person> based on an attribute<pid>
+  Class Person
+  { String Name; String City; int pid; }
+Use of Comparator & Comparable?
+ 
+3)What is linked hashmap and it's difference between hashmap?
+ 
+4)Window handling & Frame handling?
+ 
+5)TestNg silent features & annotations?
+ 
+6)What is Synchronisation & how we achieve it?
+ 
+7)Explain your Automation Framework?
+ 
+8)What is stash?
+ 
+9)fetch Vs pull?
+ 
+10)Query to select Topmost record?
+ 
+11)Query to select Top 10 records?
+ 
+12)What are diffrent Error codes you faced and when?(400,401,403,404)
+ 
+13)How will you handle expired Token scenario in API automation?
+ 
+14)Explain the latest project
+ 
+15)What is your job and responsibility
+ 
+16)How will you manage the work with Onshore Team
+
+How we can find xpath for shadow root if it is closed
+
+1: Tell me about yourself
+2: Encapsulation with implementation in framework
+3: find the counting of strings
+4: Find duplicates in arrays
+5: Find the occurrence of strings
+6: finally keyword and what code is written in finally block
+7: If in a dropdown, we click on it and list will appear and if we try to inspect it disappears. How to handle.
+8: Shadow DOM and how to resolve
+9: what is the architecture of jmeter
+10: What are the main testing we do in jmeter
+11: How to deal with jmx file
+12: Selenium version 3vs4
+13: RequestSpecification
+14: explain Post request
+15: Mortgage
+16: Challenges that you have faced and how you overcome those.
+17: Framework explaination
+18: put and post
+19: After merging into the guthub my code worked fine but In jenkins its not working. Why?
+
+Tell me about yourself
+Selenium4
+Shadow DOM
+Put vs Post
+Use of Overloading in your framework
+Explain Framework
+Parallel execution flow.
+How you reading threadcounts for parallel execution.
+How you reading data from excel file
+Git pull vs rebase vs merge
+once pull request rejected what to do
+Challenges you faced while working.
+Abstract class vs Interface
+Response codes
+How Jenkins works
+Git
+After merging into the guthub my code worked fine but In jenkins its not working. Why?
+Mortgage
+
+
+
+-----------
+1) Tell me about yourself
+2) Mortgage
+3) challanges faced in previous project
+4) What is the big task in your carrier
+5) Abstract class can inherit the interface
+6) Interface can have the methods
+7) run time polymorphism
+8) JDK and JRE
+9) explain framework
+10) where you store the test data
+11) How we can run the script on different browsers
+12) Scenario outline keyword
+13) Shadow Dom
+14) Exceptions in shadow dom
+15) Encapsulation and where u used in project
+16) where u store sensetive data framework
+17) Xpath and cssSelector. Which will you be prefer
+18) why you access the Xpath 
+
+
+1.Difference between JDK and JRE
+2.will it work if we have different JDK version and different JRE version
+3.can we convert int or string values to Object
+4.try catch finally
+5.upcasting downcasting with example
+6.encapsulation with example
+7.major challenges faced in the project
+8.explain java concepts used in the framework
+9.how to handle windows and tabs in selenium
+10.what you will do if you are not able to fix the script
+11.how we define dependency in pom.xml
+12.after upgrading the dependency , if script is not working, how we can deal with
+13.can we write xpaths in shadow dom
+14. explain shadow dom
+15.difference between xpath and css
+16.singleton class
+
+-----------
+1) Tell me about yourself
+2) Mortgage
+3) challanges faced in previous project
+4) What is the big task in your carrier
+5) Abstract class can inherit the interface
+6) Interface can have the methods
+7) run time polymorphism
+8) JDK and JRE
+9) explain framework
+10) where you store the test data
+11) How we can run the script on different browsers
+12) Scenario outline keyword
+13) Shadow Dom
+14) Exceptions in shadow dom
+15) Encapsulation and where u used in project
+16) where u store sensetive data framework
+17) Xpath and cssSelector. Which will you be prefer
+18) why you access the Xpath 
+
+1.Difference between JDK and JRE
+2.will it work if we have different JDK version and different JRE version
+3.can we convert int or string values to Object
+4.try catch finally
+5.upcasting downcasting with example
+6.encapsulation with example
+7.major challenges faced in the project
+8.explain java concepts used in the framework
+9.how to handle windows and tabs in selenium
+10.what you will do if you are not able to fix the script
+11.how we define dependency in pom.xml
+12.after upgrading the dependency , if script is not working, how we can deal with
+13.can we write xpaths in shadow dom
+14. explain shadow dom
+15.difference between xpath and css
+16.singleton class
+17.git rebase and merge
+18.how to clone from bitbucket
+
+
+Questions by Arun
+1) Tell me about yourself
+2) Explain about previous experiences
+3) Explain framework 
+4) jmeter tool
+ 
+Questions by Hanumantha
+ 
+1) how you handles the exceptions/errors in framework
+2) where you write the code to handle the exceptions(try and catch block)
+3) Scenario and scenario outline
+4) which selenium version and java version you used
+5) If you are working on own branch and team member is told to switch on my branch and please push my code,
+   How you can do this without committing your latest code?
+6) git flow
+7) git commands
+8) cache in rest assured
+9) unauthorized and forebiden difference
+
+
+Explain previous projects with all module
+What are your individual contribution in ur projects
+how to write test plan, test scenario, tc etc
+different techniques while design test cases
+how you define valid bug
+which development process
+what u implemented newly in ur QA exp
+prepare the test plan
+ 
+Manjunath:-
+Array & Arraylist
+Real implementation of Set & Map
+String manipulation
+How to get only numeric digits from string
+how to convert from system date to string and string date to date format
+ 
+Listners in TestNG
+Different between Junit & TestNG
+Status code 2xx 3xx 4xx and 5xx
+How to pass one attribute value from one response to other using postman and restAssured
+how to handle jsonarry
+get the jsonarray values from response and store into a collection]
+Serializtion and Deserialization (POJO)
+objectMapper
+what the response class name for response
+basic auth & bertoken
+
+
+1Tell me about yourself
+2Encapsulation how you been implemented that
+3How to swap 2 string variables but you should not use 3rd variable, give algorithm and logic
+4.what you do for each count in string
+5. within the words how do you remove duplicates
+6.what is the list. Hashmap
+7Expalin the framwork and project structure
+8.explicit wait
+9.what are the locators you have used
+10.absolute and relative path, if we use absolute is there any challenge
+11.basic structure of api
+12.post put
+13.status code
+14.have you faced any conflicts in git, git merge
+15.briefly explain css
+15.which you created pipeline is ci/cd, how often do you run pipeline
+By punith
+1.Can you explain your versions have used in tour framework
+2. Challenges when you upgraded framework
+3.shadow dom
+4.features of framwork
+5.Does your framwork support parallel execution
+6.can you explain how to traverse forward by using css from parent to child
+7.parent has got 3child i need to catch hold of the second child can you explain how to do that
+8.how to handle sudo elements
+By siddhant
+1.explain project and team structure
+2.non technical challenge how you overcome
+3. how you will hnadle if you have conflict with the opposite team,. How do you manage conflict
+4.do you have experience on creating test atifacts, test documents, strategy , test execution and completion report
+
+
+1. Tell me about yourself
+2.Tell me about your previous project and work experiences
+3. Explain about Framework used on previous projects
+4. what is BDD
+5. Explain about your work experience with jenkins
+6. what is CI/CD pipeline
+7.What is your work experience using API testing.
+8. what is the o auth and authentication
+9. what are the response codes we have in API
+10.what is 403 response.
+ 
+Questions by Lindop Jhonathan
+ 
+1. what is the difficulties faced on your previous work experience
+2. what is the new technologies you implemented with your previous work
+3. What is your contribution in your project
+4. How to prepare your test plan 
+5. what is your most complicated issues you faced on your experience
+6. methods used to prepare for a test cases
+
+
+what are java concepts implemented in ur project
+oops, collection, exception handling, 
+Framework explain
+shadow dom and where u implement in ur project
+properties file read to base driver
+how to maintain test data
+crosss browser testing
+driver initialization in basedriver 
+Selenium4 architecture
+how to working with text inside DOM by CSS
+Different type of XPATH
+List and MAp implementation
+where u changed version of libraries 
+reports generation
+how to working with elements if no attributes in side DOM
+XPATH vs CSS
+
+
+Maven build'
+jenkins configuration
+jenkins pipeline
+all http method in API
+all error code for status code including all series 
+what are things we are proving the GET call
+If we are providing same set of payload to POST call what error code
+auth
+401 and 403
+team structure
+how to coorinate with onsore team
+how u send report status report to client
+how to debug ur code and where we see the value of variable during debug
+Can we edit the value of variable during debug.
+Write a program to get max value from array
+
+
+Oops concepts
+Polymorphism
+Count of characters in string
+How to find duplicate numbers in java
+Syntax of post method
+Explain all your previous projects
+
+
+how to import project from remote and resolve any error in eclipse
+what is selenium version r u using and what are the new feature 
+Maven command
+Git flow
+how to resolve conflict
+collection used in ur fw
+search mobile and select mobile under 15000 in amazon search box using selenium
+findout element based on child in amazon
+how to get duplicate values from a column using sql query
+how to handle failed test cases in jenkins
+put and patch
+204 status code 
+
+Questions asked By Fiona:
+ 
+1.Tell about yourself
+2.What about your previous project Experience?
+3.how many members are there in your team?
+4.What is your work experience with Jmeter?
+5.What are the difficulties you faced on your previous projects?
+6.Do you have previous work experience in banking projects?
+
+
+1.Explain about Json Parse 
+2.what is the use of glue in cucumber?
+3.What is pojo how you achieve it?
+4.Tell about cucumber classes
+5.what is Interface what are those?
+6.What is serialisation and Deserialisation?
+7.What are new features available on selenium 4?
+8.What is the selenium version you worked on?
+ 
+ 
+Questions by Vivek:
+ 
+1.What are the Testng annotations avalilable list them?
+2.What is pojo class how to create it?
+3.what is response code in API?
+4.what are the validations available in API?
+5.what are the test methods in api testing?
+6.what are Payload parsing techniques?
+
+
+V L Punit Kumar:
+Where did you apply encapsulation in your previous project?
+How have you created Compatibility test cases utility in your previous project?
+Sauce Lab integration in details?
+How did you get the configuration data from Json file in your framework?
+Which locator you have been used in your previous project?
+What is the difference between Id, Xpath, Link Text, CSS Selector locators in detail?
+Where did you store the locators in your previous project?
+Did you use Page factory or any other approach?
+How did you Integrate your compatibility TCs utility with Jenkins Pipeline with CLI command?
+Explain how will you run allure report in your windows machine without calling allure server?
+How did you use Xpath in your previous project?
+How can you click on the button which is not enable on UI?
+What exception we get in case of explicit and implicit wait and the usage of these waits?
+Sahin Jain:
+Tell me yourself with your technical skills and experience only?
+Algorithm and program for Minimum value from an Array?
+Have you done any optimization in your previous project?
+Have you handled automation testing team?
+Siddhant Mitra:
+What type of optimizations have you done and why it was required in your previous project?
+How did you resolve conflicts?
+Have you created test strategy document by yourself, or it was already created?
+How did you assign task to the team, have you created any process?
+Any challenge has you faced technical or non-technical and how did you handle?   
+
+
+
+1. Diff between == & equals method
+ 
+2. Out put of below program
+public class TryWithFinally {
+  public static int method() {
+     try {
+        System.out.println("Try Block with return type");
+        return 10;
+     } finally {
+        System.out.println("Finally Block always execute");
+     }
+  }
+  public static void main(String[] args) {
+     System.out.println(method());
+  }
+}
+ 
+3. Out put of below program
+String fruit = "Apple";
+switch(fruit)
+{
+    case "Mango":
+        System.out.println("Sweet");
+        break;
+    case "Apple":
+        System.out.println("Delicious");
+    case "Orange":
+        System.out.println("tasty");
+    default:
+        System.out.println("Not a fruit");
+}
+ 
+4. String str1 = "1296"; convert to Integer
+ 
+5. String str = "Hello Welcome to my program world"; retrive welcome and print
+ 
+6. Diff between Final , Finalize & finally
+ 
+7. How to configure to launch gifferent browsers in selenium based on user input
+ 
+8. How to handle alerts in selenium
+ 
+9. How to click on disabled element
+ 
+10. what are different types of waits in selenium
+ 
+11. What are tags in cucumber
+ 
+12. Diff between Scenario and Scenario Outline
+ 
+13. Any idea on lambda expression?
+ 
+14. What type of reports you used in your project
+ 
+15. Hou you used to write test cases in previous project
+ 
+16. Diff between Post&Get
+ 
+17. Diff between path and query parameters
+ 
+18. Different types of http methods
+ 
+19. How to print all the data of id 9 & just last name of id 9
+{
+    "page": 2,    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+
+
+21. How to resolve merge conflicts in git
+
+
+
+how to import project from remote and resolve any error in eclipse
+After importing the project what will be the next steps
+GIT Flow
+What are all the commands used in GIT
+GIT Clone
+GIT Conflict
+Collections used in Framework
+Find Out Element based on Child to parent
+Put and patch Different
+TestNG Listeners 
+Types are listeners used in TestNG
+Cucumber Framework
+Hooks Class
+Background in Cucumber
+
+
+how to import project from remote and resolve any error in eclipse
+After importing the project what will be the next steps
+GIT Flow
+What are all the commands used in GIT
+GIT Clone
+GIT Conflict
+Collections used in Framework
+Find Out Element based on Child to parent
+Put and patch Different
+TestNG Listeners 
+Types are listeners used in TestNG
+Cucumber Framework
+Hooks Class
+Background in Cucumber
+
+
+What is difference between selenium 3 and selenium 4?
+what is super most  of interface?
+what is interface?
+To find xpath from webtable (task)
+write a code to print the List of WebElements from Webtables(task)?
+How to work on suggestion in inputfield?
+Cucumber flow?
+What is difference between scenario and scenario outline?
+What is difference between background and hooks class?
+Git flow?
+How to create branches in Git?
+How to handle conflict in Git?
+
+
+1) JDK and JVM
+2) try{
+	//exception occurs
+	try{
+ 
+	   } catch(){
+ 
+	   } finally{
+ 
+	   }
+	} catch(){
+	}
+	--> if exception occurs in first try block whether finally will execute
+ 
+3) If we compile a code in jdk 17 and run it on a machine which has jdk1.8 installed what will happen?
+ 
+4) What will happen if we pass same query parameter more than once in a request?
+ 
+5) What is the purpose of headers?
+ 
+6) What are all the content-type there and how can you configure it?
+ 
+7) Syntax for POST Request?
+ 
+8) What will happen if you pass xml to the request which accepts json ?
+ 
+9) Response vs ValidatableResponse?
+ 
+10) How can you validate the status code ?
+ 
+11) Status Code ==> 400 , 404 , 503
+ 
+12) Can we pass query parameter before path parameter ?
+ 
+13) git init?
+ 
+14) PUT vs PATCH ?
+ 
+15) Did you pass entire data for PUT and PATCH?
+ 
+16) What are the steps to get the codes from remote to local for the very first time ?
+ 
+17) Can we have multiple Examples in a ScenarioOutline?
+ 
+18) Can we have multiple data tables ?
+ 
+19) How can you get a data in a data table with multiple rows and columns ?
+
+nterview Questions By Suhas Bankar:
+=====================================
+1) What is default constructor?
+2) What is List, Set ,Map?
+3) How to find the unique elements using Set concepts in java?
+4) What will happen if we pass same query parameter more than once in a request?
+5) What is the purpose of headers?
+6) What are all the content-type there and how can you configure it?
+7) Syntax for GET Request?
+8) What will happen if you pass xml to the request which accepts json ?
+9) Response vs ValidatableResponse?
+10) How can you validate the status code ?
+11) Status Code ==> 401 , 404 , 200, 400,501
+12) Can we pass query parameter before path parameter ?
+13) Difference between path parameter and query parameter?
+
+14) PUT vs PATCH ?
+15) Did you pass entire data for PUT and PATCH?
+16) What are the important Authorization methods supported by postman?
+17) Can we have multiple Examples in a ScenarioOutline?
+18) How can you get a data in a data table with multiple rows and columns ?
+19) Explain about yours project's?
