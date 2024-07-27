@@ -174,4 +174,15 @@ this.lname= lname;
 }
 
 ============================================================================
-
+ try{
+	//exception occurs
+	try{
+ 
+	   } catch(){
+ 
+	   } finally{
+ 
+	   }
+	} catch(){
+	}
+	--> if exception occurs in first try block whether finally will execute
